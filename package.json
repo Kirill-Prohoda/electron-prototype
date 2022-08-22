@@ -1,6 +1,6 @@
 {
-  "name": "electron-prototype",
-  "productName": "Electron Prototype",
+  "name": "electron-react-prototype",
+  "productName": "Electron React Prototype",
   "version": "0.1.0",
   "main": "public/electron.js",
   "private": true,
